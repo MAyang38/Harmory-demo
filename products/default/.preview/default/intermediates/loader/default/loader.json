@@ -1,0 +1,27 @@
+{
+  "modulePathMap": {
+    "default": "D:\\study\\huawei\\hongmeng\\07_ArkWebPageAdaptation\\07_ArkWebPageAdaptation\\learn\\products\\default",
+    "map": "D:\\study\\huawei\\hongmeng\\07_ArkWebPageAdaptation\\07_ArkWebPageAdaptation\\learn\\features\\map",
+    "learning": "D:\\study\\huawei\\hongmeng\\07_ArkWebPageAdaptation\\07_ArkWebPageAdaptation\\learn\\features\\learning",
+    "quickstart": "D:\\study\\huawei\\hongmeng\\07_ArkWebPageAdaptation\\07_ArkWebPageAdaptation\\learn\\features\\quickstart",
+    "utils": "D:\\study\\huawei\\hongmeng\\07_ArkWebPageAdaptation\\07_ArkWebPageAdaptation\\learn\\commons\\utils",
+    "uicomponents": "D:\\study\\huawei\\hongmeng\\07_ArkWebPageAdaptation\\07_ArkWebPageAdaptation\\learn\\commons\\uicomponents"
+  },
+  "compileMode": "esmodule",
+  "projectRootPath": "D:\\study\\huawei\\hongmeng\\07_ArkWebPageAdaptation\\07_ArkWebPageAdaptation\\learn",
+  "nodeModulesPath": "D:\\study\\huawei\\hongmeng\\07_ArkWebPageAdaptation\\07_ArkWebPageAdaptation\\learn\\products\\default\\.preview\\default\\intermediates\\loader_out\\default\\node_modules",
+  "byteCodeHarInfo": {},
+  "declarationEntry": [],
+  "moduleName": "default",
+  "hspNameOhmMap": {},
+  "harNameOhmMap": {},
+  "packageManagerType": "ohpm",
+  "compileEntry": [],
+  "otherCompileFiles": [],
+  "dynamicImportLibInfo": {},
+  "routerMap": [],
+  "hspResourcesMap": {},
+  "anBuildOutPut": "D:\\study\\huawei\\hongmeng\\07_ArkWebPageAdaptation\\07_ArkWebPageAdaptation\\learn\\products\\default\\.preview\\default\\intermediates\\loader_out\\default\\an\\arm64-v8a",
+  "anBuildMode": "type",
+  "buildConfigPath": ".preview\\config\\buildConfig.json"
+}
